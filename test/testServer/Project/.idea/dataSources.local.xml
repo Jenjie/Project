@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="db@localhost" uuid="1ddd4758-0c9a-48b9-9b3b-d51aeee22af9">
-      <database-info product="MySQL" version="5.5.5-10.1.32-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
-        <extra-name-characters>#@</extra-name-characters>
-        <identifier-quote-string>`</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>root</user-name>
-      <introspection-schemas>*:test</introspection-schemas>
-    </data-source>
-    <data-source name="heroku_bc560e3cff14c41@us-cdbr-iron-east-04.cleardb.net" uuid="544516ef-acff-457f-a64d-a88e26782a82">
+    <data-source name="heroku_bc560e3cff14c41@us-cdbr-iron-east-04.cleardb.net" uuid="2ec9dbd8-eab5-4bc7-b369-4d94a44ca9cb">
       <database-info product="MySQL" version="5.5.56-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
